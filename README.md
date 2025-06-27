@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left"> I'm <strong>Amit Kumar Singh</strong> 👨‍💻</p>
+<h3 <p align="left"> I'm <strong>Amit Kumar Singh</strong> 👨‍💻</p></h3>
+
 
 ###
 
